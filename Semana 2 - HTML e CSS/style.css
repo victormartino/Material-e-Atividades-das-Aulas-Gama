@@ -1,0 +1,9 @@
+body {
+    color:olive;
+}
+li {
+    text-decoration:underline;
+    color:purple
+}
+ul {border: 1px solid black;
+}
